@@ -1,4 +1,4 @@
-package class10;
+package com.syntax.class10;
 
 import java.util.Scanner;
 
